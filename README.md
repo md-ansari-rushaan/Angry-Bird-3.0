@@ -1,2 +1,2 @@
-# Angry-Bird-3.0
-This is Angry Bird Game Which is almost Completed So, 
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
